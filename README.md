@@ -1,0 +1,1 @@
+A trivial piece of software that was meant to emulate a car dashboard software.  First team project I worked on at school.
